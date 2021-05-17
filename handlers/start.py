@@ -14,20 +14,20 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Support⚡️", url="https://t.me/W2HSupport"
+                        "🔥Owner🔥", url="https://t.me/piroXpower"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Creater⚡️", url="https://t.me/David99q"
+                        "💦Assistant💦", url="https://t.me/talkzoneXmusic"
                     ),
                     InlineKeyboardButton(
-                        "Ravan102030⚡️", url="https://t.me/Ravan102030"
+                        "🌎Music-World🌎", url="https://t.me/apni_yaari"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/W2HMusicBot?startgroup=true"
+                        "Add To Your Group⚡️", url="https://t.me/TalkzoneXmusicbot?startgroup=true"
                     )
                 ]
             ]
