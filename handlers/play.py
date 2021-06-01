@@ -780,12 +780,12 @@ async def jiosaavn(client: Client, message_: Message):
             chat_id=message_.chat.id,
             reply_markup=keyboard,
             photo="final.png",
-            caption=f"🔥Talkzone🔥=#️⃣ Queued at position {position}",
+            caption=f"⚔️PATRICIA⚔️=#️⃣ Queued at position {position}",
         
         )           
            
     else:
-        await res.edit_text("🔥Talkzone🔥=▶️Playing.....")
+        await res.edit_text("⚔️PATRICIA⚔️=▶️Playing.....")
         chat_id = message_.chat.id
         que[chat_id] = []
         qeue = que.get(message_.chat.id)
